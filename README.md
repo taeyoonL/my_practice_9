@@ -6,3 +6,4 @@ table_view_controller_1 처럼 테이블 뷰 컨트롤러와 네비게이션 컨
 
 # 실행 화면
 
+![ezgif com-video-to-gif (10)](https://github.com/taeyoonL/my_practice_9/assets/132141316/622bf752-2545-4808-bcb6-9ad13dcbec6f)
